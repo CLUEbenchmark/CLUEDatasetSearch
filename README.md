@@ -1,7 +1,7 @@
 # CLUEDatasetSearch
 中英文NLP数据集。
 
-如果有同学希望贡献到这个数据集中，欢迎提出PR。
+[TOC]
 
 如果数据集有问题，欢迎提出issue。
 
