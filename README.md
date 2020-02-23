@@ -1,7 +1,7 @@
 # CLUEDatasetSearch
 中英文NLP数据集。可以点击[搜索](https://www.cluebenchmarks.com/dataSet_search.html)。
 
-您可以通过<a href='https://www.cluebenchmarks.com/dataSet_upload.html'>上传数据集信息</a>贡献你的力量。上传超过5个数据集信息并通过审核后，该同学可以作为项目贡献者，并显示出来。
+您可以通过<a href='https://www.cluebenchmarks.com/dataSet_upload.html'>上传数据集信息</a>贡献你的力量。上传5或以上数据集信息并审核通过后，该同学可以作为项目贡献者，并显示出来。
 
 - [NER](#ner)
 - [QA](#qa)
