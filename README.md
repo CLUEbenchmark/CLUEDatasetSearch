@@ -1,5 +1,5 @@
 # CLUEDatasetSearch
-中英文NLP数据集。
+中英文NLP数据集。可以点击[搜索](https://www.cluebenchmarks.com/dataSet_search.html)。
 
 - [NER](#ner)
 - [QA](#qa)
@@ -111,7 +111,7 @@
 | 13   | [ChineseSTS](https://github.com/IAdmireu/ChineseSTS)         | 2017/9/21      | 唐善成, 白云悦, 马付玉.  西安科技大学         |                                                        | 该数据集提供了12747对中文相似数据集，在数据集后 作者给出了他们相似度的打分，语料由短句构成。 | 短句相似度 匹配                                              | 相似度匹配                 |                                                              |      |
 | 14   | [中国健康信息处理会议 举办的医疗问题相似度 衡量竞赛数据集](https://biendata.com/competition/chip2018/) | 2018           | CHIP 2018-第四届中国健康信息处理会议（CHIP）  |                                                        | 本次评测任务的主要目标是针对中文的真实患者健康咨询语料，进行问句意图匹配。 给定两个语句，要求判定两者意图是否相同或者相近。 所有语料来自互联网上患者真实的问题，并经过了筛选和人工的意图匹配标注。 数据集经过脱敏处理，问题由数字标示 训练集包含20000条左右标注好的数据（经过脱敏处理，包含标点符号），  测试集包含10000条左右无label的数据（经过脱敏处理，包含标点> 符号）。 | 医疗问题相似度 匹配                                          | 相似度匹配                 |                                                              |      |
 | 15   | [COS960: A Chinese Word Similarity Dataset of 960 Word Pairs](https://github.com/thunlp/COS960) | 2019/6/6       | 清华大学                                      |                                                        | 该数据集中包含了960对单词， 并且每对单词都被15个母语者用相似度分数来衡量 这960个词对根据标签被分成三组， 包含480对名词，240对动词和240对形容词。 | 单词之间的相似度                                             | 同义词                     | [论文](https://arxiv.org/abs/1906.00247)                     |      |
-| 16   | [OPPO手机搜索排序query-title语义匹配数据集。](https://pan.baidu.com/s/1Hg2Hubsn3GEuu4gubbHCzw  密码7p3n) | 2018/11/6      | OPPO                                          |                                                        | 该数据集来自于OPPO手机搜索排序优化实时搜索场景, 该场景就是在用户不断输入过程中，实时返回查询结果。 该数据集在此基础上做了相应的简化， 提供了一个query-title语义匹配，即ctr预测的问题。 | 问题标题匹配， ctr预测                                       | 相似度匹配                 |                                                              |      |
+| 16   | OPPO手机搜索排序query-title语义匹配数据集。(https://pan.baidu.com/s/1Hg2Hubsn3GEuu4gubbHCzw  密码7p3n) | 2018/11/6      | OPPO                                          |                                                        | 该数据集来自于OPPO手机搜索排序优化实时搜索场景, 该场景就是在用户不断输入过程中，实时返回查询结果。 该数据集在此基础上做了相应的简化， 提供了一个query-title语义匹配，即ctr预测的问题。 | 问题标题匹配， ctr预测                                       | 相似度匹配                 |                                                              |      |
 | 17   | [网页搜索结果评价(SogouE)](https://www.sogou.com/labs/resource/e.php) | 2012年         | 搜狗                                          | 搜狗实验室数据使用许可协议                             | 该数据集包含了查询词，相关URL以及查询类别的搜索数据，格式如下 数据格式说明：查询词]\t相关的URL\t查询类别 其中URL保证存在于对应的互联网语料库； 查询类别中“1”表示导航类查询；“2”表示信息类查询 | [Automatic Search Engine Performance Evaluation with Click-through Data Analysis](https://www.sogou.com/labs/paper/Automatic_Search_Engine_Performance_Evaluation_with_Click-through_Data_Analysis.pdf) | 查询类型匹配预测           |                                                              |      |
 
 
