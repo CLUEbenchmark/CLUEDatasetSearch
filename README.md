@@ -15,6 +15,7 @@
 - [知识图谱](#知识图谱)
 - [语料库](#语料库)
 - [阅读理解](#阅读理解)
+- [贡献与参与](#贡献与参与)
 
 如果数据集有问题，欢迎提出issue。
 
@@ -212,4 +213,16 @@
 | 20   | [MS MARCO](http://www.msmarco.org/dataset.aspx)              | 2018       | 微软                        | /                      | <font size=2> 微软基于搜索引擎 BING 构建的大规模英文阅读理解数据集，包含10万个问题和20万篇不重复的文档。MARCO 数据集中的问题全部来自于 BING 的搜索日志，根据用户在 BING 中输入的真实问题模拟搜索引擎中的真实应用场景，是该领域最有应用价值的数据集之一。 </font> | 多文档                     | 英文阅读理解                  | [论文](https://arxiv.org/pdf/1611.09268.pdf)                 |                                                              |
 | 21   | [中文完形填空](https://github.com/ymcui/Chinese-Cloze-RC)    | 2016年     | 崔一鸣                      |                        | <font size=2> 首个中文填空型阅读理解数据集PD&CFT， 全称People Daily and Children's Fairy Tale， 数据来源于人民日报和儿童故事。 </font> | 填空型阅读理解             | 中文完形填空                  | [论文](http://aclanthology.info/papers/consensus-attention-based-neural-networks-for-chinese-reading-comprehension) |                                                              |
 | 22   | [NLPCC ICCPOL2016](http://tcci.ccf.org.cn/conference/2016/)  | 2016.12.2  | NLPCC主办方                 |                        | <font size=2> 基于文档中的句子人工合成14659个问题，包括14K中文篇章。       </font> | 问答对阅读理解             | 中文阅读理解                  | \                                                            |                                                              |
+
+# 贡献与参与
+
+感谢以下同学的贡献（排名不分先后）
+
+郑少棉、李明磊、李露、叶琛、薛司悦、章锦川、李小昌、[李俊毅](dukeenglish.github.io)
+
+您可以通过<a href='https://www.cluebenchmarks.com/dataSet_upload.html'>上传数据集信息</a>贡献你的力量。上传五个或以上数据集信息并审核通过后，该同学可以作为项目贡献者，并显示出来。
+
+Share your data set with community or make a contribution today! Just send email to chineseGLUE#163.com,
+
+or join QQ group: 836811304
 
