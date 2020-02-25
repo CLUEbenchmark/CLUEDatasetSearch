@@ -24,39 +24,6 @@
 
 # NER
 
-<style>
-table th:first-of-type {
-    width: 2%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 10%;
-}
-table th:nth-of-type(4) {
-    width: 10%;
-}
-table th:nth-of-type(5) {
-    width: 3%;
-}
-table th:nth-of-type(6) {
-    width: 40%;
-}
-table th:nth-of-type(7) {
-    width: 10%;
-}
-table th:nth-of-type(8) {
-    width: 3%;
-}
-table th:nth-of-type(9) {
-    width: 10%;
-}
-table th:nth-of-type(10) {
-    width: 2%;
-}
-</style>
-
 | ID   | 标题   | 更新日期 | 数据集提供者 | 许可 | 说明   | 关键字   | 类别 | 论文地址   | 备注 |
 | ---- | ------------------------------------------------------------ | --------- | -------------------------------------- | ---- | ------------------------------------------------------------ | ------------ | ------------ | ----------------------------------------------------- | ---- |
 | 1    | [CCKS2017中文电子病例命名实体识别](https://biendata.com/competition/CCKS2017_2/data/) | 2017年5月 | 北京极目云健康科技有限公司    |      | <font size=2>数据来源于其云医院平台的真实电子病历数据，共计800条（单个病人单次就诊记录），经脱敏处理</font> </font> | 电子病历     | 命名实体识别 | \                                                     | 中文 |
