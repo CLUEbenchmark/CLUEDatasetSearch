@@ -18,7 +18,7 @@
 
 所有数据集均来源于网络，只做整理供大家提取方便，如果有侵权等问题，请及时联系我们删除。
 
-![gif](./scripts/gif.gif)
+![gif](./scripts/git.gif)
 
 # NER
 
