@@ -3,6 +3,8 @@
 
 您可以通过<a href='https://www.cluebenchmarks.com/dataSet_upload.html'>上传数据集信息</a>贡献你的力量。上传五个或以上数据集信息并审核通过后，该同学可以作为项目贡献者，并显示出来。
 
+![gif](./scripts/git.gif)
+
 - [NER](#ner)
 - [QA](#qa)
 - [情感分析](#情感分析)
@@ -18,7 +20,6 @@
 
 所有数据集均来源于网络，只做整理供大家提取方便，如果有侵权等问题，请及时联系我们删除。
 
-![gif](./scripts/git.gif)
 
 # NER
 
