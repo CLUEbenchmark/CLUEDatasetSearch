@@ -3,7 +3,7 @@
 
 您可以通过<a href='https://www.cluebenchmarks.com/dataSet_upload.html'>上传数据集信息</a>贡献你的力量。上传五个或以上数据集信息并审核通过后，该同学可以作为项目贡献者，并显示出来。
 
-<a href="https://www.cluebenchmarks.com/clueai.html">三分钟定制一个NLP的API--社区版免费、无需数据、训练和算力</a>
+<a href="https://www.cluebenchmarks.com/clueai.html">三分钟定制一个NLP的API--社区版免费、不需要标注数据、训练和算力</a>
 
 
 ![gif](./scripts/git.gif)
